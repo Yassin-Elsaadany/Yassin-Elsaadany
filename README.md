@@ -44,7 +44,7 @@ I'm passionate about **malware analysis, cryptography, network security, Android
 - 💼 LinkedIn: [Yassin Elsadaany](https://eg.linkedin.com/in/yassin-elsadaany-562218279)
 - 🏆 GitHub: [@Yassin-Elsaadany](https://github.com/Yassin-Elsaadany)
 
-### ⚡ Fun Fact
-I was part of the **technical/system team** at **ACPC and ECPC**, where I configured **network switches and secured infrastructure** for competitive programming contests.
+### ⚡Volunteer 
+I was part of the **technical/system team** at **ACPC and ECPC**, where I configured **network switches and secured infrastructure** 
 
 🚀 Always eager to **analyze threats, develop secure applications, and explore cryptographic security!**
