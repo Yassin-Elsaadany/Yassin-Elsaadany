@@ -1,52 +1,32 @@
-# 👋 Hi, I'm Yassin Elsaadany
+## 🏆 Certificates & Experience
 
-🎓 Cybersecurity & Software Development Student  
-🛡 Passionate about Web Security, Malware Analysis, and System Security  
+### 🛡 Cybersecurity
 
----
+**TryHackMe — Jr Penetration Tester**
+- Completed full penetration testing learning path  
+- Covers web attacks, privilege escalation, and real-world scenarios  
+- Hands-on practical labs and attack simulations  
 
-## 🚀 Featured Project
-
-### 🎾 PlayPadel (Live Web App)
-
-🔗 https://playpadel.ddns.net  
-
-Secure e-commerce web application built with Flask.
-
-### 🔥 Highlights
-- Stripe payment integration
-- Google OAuth login
-- Admin dashboard
-- Secure authentication system
-- Full security protections (XSS, CSRF, SQLi, IDOR)
+![TryHackMe Certificate](assets/certificates/tryhackme-jr-pentester.png)
 
 ---
 
-## 🧰 Tech Stack
+### 💻 ICPC System Engineering Experience
 
-💻 Python (Flask)  
-🌐 HTML, CSS, JavaScript  
-🗄 SQLite / SQLAlchemy  
-💳 Stripe  
-🔐 OAuth (Google)  
-⚙️ Nginx + Gunicorn  
+I worked as part of the **System / SysOps team** in ICPC competitions, where I was responsible for:
 
----
+- Infrastructure setup and stability  
+- Network configuration and troubleshooting  
+- System monitoring during contests  
+- Ensuring real-time performance under pressure  
 
-## 📌 Projects
+#### 🏅 ACPC (Africa & Arab CPC)
+![ACPC SysOps](assets/certificates/icpc-acpc-sysops.png)
 
-- 🎾 PlayPadel (Live)
-- 🤖 Text Classification ML
-- 📱 Android Padel App (coming soon)
+#### 🏅 ICPC World Finals
+![World Finals](assets/certificates/icpc-world-finals.png)
 
----
-
-## 📫 Contact
-
-📧 y.m.elsaadany@gmail.com  
+#### 🏅 ECPC (Egyptian CPC)
+![ECPC System](assets/certificates/icpc-ecpc-system.png)
 
 ---
-
-## ⚡ Fun Fact
-
-I design systems with security first — not as an afterthought.
