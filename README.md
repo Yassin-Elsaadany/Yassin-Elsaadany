@@ -1,3 +1,57 @@
+# 👋 Hi, I'm Yassin Elsaadany
+
+🎓 Computer Science & Cybersecurity Student  
+🛡️ Web Security | Malware Analysis | Networking | Full-Stack Development  
+🚀 Building secure real-world applications and cybersecurity projects  
+
+---
+
+## 🚀 Featured Project
+
+### 🎾 PlayPadel Demo
+
+[![Status](https://img.shields.io/badge/Status-Live-success)](https://playpadel.ddns.net)
+![Security](https://img.shields.io/badge/Security-Enabled-green)
+![Flask](https://img.shields.io/badge/Flask-WebApp-black)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+
+🔗 **Live Demo:** https://playpadel.ddns.net  
+
+PlayPadel is a secure e-commerce web application for padel products.
+
+**Highlights**
+- User authentication and Google OAuth
+- Stripe payment integration
+- Admin dashboard
+- Product, order, coupon, and user management
+- SQL Injection, XSS, CSRF, IDOR, and secure cookie protection
+
+---
+
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+---
+
+## 🛡 Cybersecurity Focus
+
+- Malware analysis (static & dynamic)
+- Web application security
+- Secure authentication systems
+- Cryptography basics (AES, DES, RSA, hashing)
+- Network security & firewall configuration
+- Secure system design
+
+---
+
 ## 🏆 Certificates & Experience
 
 ### 🛡 Cybersecurity
@@ -5,7 +59,7 @@
 **TryHackMe — Jr Penetration Tester**
 - Completed full penetration testing learning path  
 - Covers web attacks, privilege escalation, and real-world scenarios  
-- Hands-on practical labs and attack simulations  
+- Hands-on labs and attack simulations  
 
 ![TryHackMe Certificate](assets/certificates/tryhackme-jr-pentester.png)
 
@@ -13,12 +67,12 @@
 
 ### 💻 ICPC System Engineering Experience
 
-I worked as part of the **System / SysOps team** in ICPC competitions, where I was responsible for:
+I worked as part of the **System / SysOps team** in ICPC competitions:
 
 - Infrastructure setup and stability  
 - Network configuration and troubleshooting  
-- System monitoring during contests  
-- Ensuring real-time performance under pressure  
+- Real-time system monitoring  
+- Ensuring contest performance under pressure  
 
 #### 🏅 ACPC (Africa & Arab CPC)
 ![ACPC SysOps](assets/certificates/icpc-acpc-sysops.png)
@@ -30,3 +84,30 @@ I worked as part of the **System / SysOps team** in ICPC competitions, where I w
 ![ECPC System](assets/certificates/icpc-ecpc-system.png)
 
 ---
+
+## 📌 Projects
+
+- 🎾 **PlayPadel Demo** — Secure Flask e-commerce web app  
+- 🤖 **Text Classification ML** — Machine learning project  
+- 💻 **YOS (Custom Operating System)** — Built from scratch (kernel + file system + commands)  
+- 🛡️ More cybersecurity tools coming soon  
+
+---
+
+## 📊 GitHub Stats
+
+![Yassin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yassin-Elsaadany&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin-Elsaadany&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+📧 Email: y.m.elsaadany@gmail.com  
+
+---
+
+## ⚡ Motto
+
+I build systems with security first — not as an afterthought.
