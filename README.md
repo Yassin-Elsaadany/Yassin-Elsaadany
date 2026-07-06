@@ -1,8 +1,15 @@
+---
 # 👋 Hi, I'm Yassin Elsaadany
 
-🎓 Computer Science & Cybersecurity Student  
-🛡️ Web Security | Malware Analysis | Networking | Full-Stack Development  
-🚀 Building secure real-world applications and cybersecurity projects  
+🎓 Computer Science & Cybersecurity Student
+🛡️ Web Security | Malware Analysis | Networking | Full-Stack Development
+🚀 Building secure real-world applications and cybersecurity projects
+
+---
+
+## 🚀 Featured Project
+
+### 🎾 PlayPadel Demo
 
 ---
 
@@ -12,12 +19,12 @@
 
 [![Status](https://img.shields.io/badge/Status-Live-success)](https://playpadel.ddns.net)
 ![Security](https://img.shields.io/badge/Security-Enabled-green)
-![Flask](https://img.shields.io/badge/Flask-WebApp-black)
+![Flask](https://img.shields.io/bad
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 
-🔗 **Live Demo:** https://playpadel.ddns.net  
+🔗 **Live Demo:** https://playpadel
 
-PlayPadel is a secure e-commerce web application for padel products.
+PlayPadel is a secure e-commerce wects.
 
 **Highlights**
 - User authentication and Google OAuth
@@ -36,7 +43,7 @@ PlayPadel is a secure e-commerce web application for padel products.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Nginx](https://img.shields.io/bad-badge&logo=nginx&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 ---
@@ -46,39 +53,45 @@ PlayPadel is a secure e-commerce web application for padel products.
 - Malware analysis (static & dynamic)
 - Web application security
 - Secure authentication systems
-- Cryptography basics (AES, DES, RSA, hashing)
+- Cryptography basics (AES, DES, RS
 - Network security & firewall configuration
-- Secure system design
-
+- Secure system 
 ---
 
 ## 🏆 Certificates & Experience
 
-### 🛡 Cybersecurity
+### 🛡 Cybersecur
+**Fortinet NSE 4 — FortiOS 7.6 Administrator**
+[![Fortinet NSE 4](https://img.shields.io/badge/For3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/badges/89a2ba8d-aaf8-4067-a050-9b81b7787911/public_url)
+- Enterprise firewall administration and configuration
+- Security policies, NAT, VPN, and threat prevention
+- Issued June 2026 via Credly
+
+---
 
 **TryHackMe — Jr Penetration Tester**
-- Completed full penetration testing learning path  
-- Covers web attacks, privilege escalation, and real-world scenarios  
-- Hands-on labs and attack simulations  
+- Completed full penetration testing learning path
+- Covers web attacks, privilege escalation, and real-world scenarios
+- Hands-on labs and attack simulations
 
 ![TryHackMe Certificate](assets/certificates/tryhackme-jr-pentester.png)
 
 ---
 
-### 💻 ICPC System Engineering Experience
+### 💻 ICPC System Engineering Expe
 
 I worked as part of the **System / SysOps team** in ICPC competitions:
 
-- Infrastructure setup and stability  
-- Network configuration and troubleshooting  
-- Real-time system monitoring  
-- Ensuring contest performance under pressure  
+- Infrastructure setup and stability
+- Network configuration and troubleshooting
+- Real-time system monitoring
+- Ensuring contest performance under pressure
 
 #### 🏅 ACPC (Africa & Arab CPC)
 ![ACPC SysOps](assets/certificates/icpc-acpc-sysops.png)
 
 #### 🏅 ICPC World Finals
-![World Finals](assets/certificates/icpc-world-finals.png)
+![World Finals](assets/certificates
 
 #### 🏅 ECPC (Egyptian CPC)
 ![ECPC System](assets/certificates/icpc-ecpc-system.png)
@@ -89,10 +102,11 @@ I worked as part of the **System / SysOps team** in ICPC competitions:
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🖐️ HearMySign Server](https://github.com/Yassin-Elsaadany/hear-my-sign-server) | Real-time ASL sign language recognition server with WebRTC video calls | Python · TensorFlow · MediaPipe · WebRTC |
-| [🎾 PlayPadel Demo](https://github.com/Yassin-Elsaadany/PlayPadel-Demo) | Secure e-commerce web app with full security hardening | Flask · SQLite · Stripe · OAuth |
+| [🖐️ HearMySign Server](https://gir-my-sign-server) | Real-time ASLsign language recognition server with WebRTC video calls | Python · TensorFlow · MediaPipe · WebRTC |
+| [🎾 PlayPadel Demo](https://githudel-Demo) | Secure e-commerce webapp with full security hardening | Flask · SQLite · Stripe · OAuth |
 | [🤖 Cyber Log Classifier](https://github.com/Yassin-Elsaadany/cyber-log-text-classifier-ml) | ML model that classifies cybersecurity log entries | Python · scikit-learn · NLP |
-| [☕ Distributed Ticket Booking](https://github.com/Yassin-Elsaadany/distributed-ticket-booking-rmi-mtls) | Distributed booking system with Ricart-Agrawala, Lamport clocks, and mTLS | Java · RMI · mTLS |
+| [☕ Distributed Ticket Booking](https://github.com/Yassin-Elsaadany/distributed-ticket-booking-rmi-mtls) | Distributed
+booking system with Ricart-AgrawalaJava · RMI · mTLS |
 | [🛡️ Palo Alto GNS3 Lab](https://github.com/Yassin-Elsaadany/paloalto-gns3-security-lab) | Network security lab with firewall zones, NAT, and security policies | GNS3 · Palo Alto · Networking |
 
 ---
@@ -107,10 +121,12 @@ I worked as part of the **System / SysOps team** in ICPC competitions:
 
 ## 📫 Contact
 
-📧 Email: y.m.elsaadany@gmail.com  
+📧 Email: y.m.elsaadany@gmail.com
 
 ---
 
 ## ⚡ Motto
 
-I build systems with security first — not as an afterthought.
+> I build systems with security first — not as an afterthought.
+
+---
