@@ -121,7 +121,7 @@ I worked as part of the **System / SysOps team** in ICPC competitions:
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🖐️ HearMySign Server](https://github.com/Yassin-Elsaadany/hear-my-sign-server) | Real-time ASL sign-language recognition server with WebRTC video calls | Python · TensorFlow · MediaPipe · WebRTC |
+| [🖐️ HearMySign ASL Training Pipeline](https://github.com/Yassin-Elsaadany/hear-my-sign-server) | TensorFlow image-classification pipeline for ASL alphabet recognition with training, evaluation, inference, and local testing. | Python · TensorFlow · EfficientNetB0 · Computer Vision |
 | [🎾 PlayPadel Demo](https://github.com/Yassin-Elsaadany/PlayPadel-Demo) | Secure e-commerce web app with full security hardening | Flask · SQLite · Stripe · OAuth |
 | [🤖 Cyber Log Classifier](https://github.com/Yassin-Elsaadany/cyber-log-text-classifier-ml) | ML model that classifies cybersecurity log entries | Python · scikit-learn · NLP |
 | [☕ Distributed Ticket Booking](https://github.com/Yassin-Elsaadany/distributed-ticket-booking-rmi-mtls) | Distributed booking system with Ricart-Agrawala, Lamport clocks, and mTLS | Java · RMI · mTLS |
