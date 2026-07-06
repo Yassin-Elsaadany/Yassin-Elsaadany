@@ -119,10 +119,11 @@ I worked as part of the **System / SysOps team** in ICPC competitions:
 
 ## 📊 GitHub Stats
 
-![Yassin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yassin-Elsaadany&show_icons=true&theme=tokyonight&cache_seconds=1800)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yassin-Elsaadany&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/Yassin-Elsaadany)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin-Elsaadany&layout=compact&theme=tokyonight&cache_seconds=1800)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin-Elsaadany&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Yassin-Elsaadany)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yassin-Elsaadany&theme=tokyonight&hide_border=true)](https://github.com/Yassin-Elsaadany)
 ---
 
 ## 📫 Contact
