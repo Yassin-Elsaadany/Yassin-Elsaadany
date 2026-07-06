@@ -60,6 +60,8 @@ PlayPadel is a secure e-commerce web application for padel products.
 
 [![Fortinet NSE 4](https://img.shields.io/badge/Fortinet-NSE4%20FortiOS%207.6-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/badges/89a2ba8d-aaf8-4067-a050-9b81b7787911/public_url)
 
+![Fortinet NSE 4 Certificate](assets/certificates/fortinet-fortios-7-6-administrator.png)
+
 - Enterprise firewall administration and configuration
 - Security policies, NAT, VPN, and threat prevention
 - Issued June 2026 via Credly
