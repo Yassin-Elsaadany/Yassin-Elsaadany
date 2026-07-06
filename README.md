@@ -11,20 +11,14 @@
 
 ### 🎾 PlayPadel Demo
 
----
-
-## 🚀 Featured Project
-
-### 🎾 PlayPadel Demo
-
 [![Status](https://img.shields.io/badge/Status-Live-success)](https://playpadel.ddns.net)
 ![Security](https://img.shields.io/badge/Security-Enabled-green)
-![Flask](https://img.shields.io/bad
+![Flask](https://img.shields.io/badge/Flask-WebApp-black)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 
-🔗 **Live Demo:** https://playpadel
+🔗 **Live Demo:** https://playpadel.ddns.net
 
-PlayPadel is a secure e-commerce wects.
+PlayPadel is a secure e-commerce web application for padel products.
 
 **Highlights**
 - User authentication and Google OAuth
@@ -43,7 +37,7 @@ PlayPadel is a secure e-commerce wects.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Nginx](https://img.shields.io/bad-badge&logo=nginx&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 ---
@@ -53,16 +47,18 @@ PlayPadel is a secure e-commerce wects.
 - Malware analysis (static & dynamic)
 - Web application security
 - Secure authentication systems
-- Cryptography basics (AES, DES, RS
+- Cryptography basics (AES, DES, RSA, hashing)
 - Network security & firewall configuration
-- Secure system 
+- Secure system design
+
 ---
 
 ## 🏆 Certificates & Experience
 
-### 🛡 Cybersecur
+### 🛡 Cybersecurity
+
 **Fortinet NSE 4 — FortiOS 7.6 Administrator**
-[![Fortinet NSE 4](https://img.shields.io/badge/For3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/badges/89a2ba8d-aaf8-4067-a050-9b81b7787911/public_url)
+[![Fortinet NSE 4](https://img.shields.io/badge/Fortinet-NSE4%20FortiOS%207.6-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/badges/89a2ba8d-aaf8-4067-a050-9b81b7787911/public_url)
 - Enterprise firewall administration and configuration
 - Security policies, NAT, VPN, and threat prevention
 - Issued June 2026 via Credly
@@ -78,7 +74,7 @@ PlayPadel is a secure e-commerce wects.
 
 ---
 
-### 💻 ICPC System Engineering Expe
+### 💻 ICPC System Engineering Experience
 
 I worked as part of the **System / SysOps team** in ICPC competitions:
 
@@ -91,7 +87,7 @@ I worked as part of the **System / SysOps team** in ICPC competitions:
 ![ACPC SysOps](assets/certificates/icpc-acpc-sysops.png)
 
 #### 🏅 ICPC World Finals
-![World Finals](assets/certificates
+![World Finals](assets/certificates/icpc-world-finals.png)
 
 #### 🏅 ECPC (Egyptian CPC)
 ![ECPC System](assets/certificates/icpc-ecpc-system.png)
@@ -102,11 +98,10 @@ I worked as part of the **System / SysOps team** in ICPC competitions:
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🖐️ HearMySign Server](https://gir-my-sign-server) | Real-time ASLsign language recognition server with WebRTC video calls | Python · TensorFlow · MediaPipe · WebRTC |
-| [🎾 PlayPadel Demo](https://githudel-Demo) | Secure e-commerce webapp with full security hardening | Flask · SQLite · Stripe · OAuth |
+| [🖐️ HearMySign Server](https://github.com/Yassin-Elsaadany/hear-my-sign-server) | Real-time ASL sign language recognition server with WebRTC video calls | Python · TensorFlow · MediaPipe · WebRTC |
+| [🎾 PlayPadel Demo](https://github.com/Yassin-Elsaadany/PlayPadel-Demo) | Secure e-commerce web app with full security hardening | Flask · SQLite · Stripe · OAuth |
 | [🤖 Cyber Log Classifier](https://github.com/Yassin-Elsaadany/cyber-log-text-classifier-ml) | ML model that classifies cybersecurity log entries | Python · scikit-learn · NLP |
-| [☕ Distributed Ticket Booking](https://github.com/Yassin-Elsaadany/distributed-ticket-booking-rmi-mtls) | Distributed
-booking system with Ricart-AgrawalaJava · RMI · mTLS |
+| [☕ Distributed Ticket Booking](https://github.com/Yassin-Elsaadany/distributed-ticket-booking-rmi-mtls) | Distributed booking system with Ricart-Agrawala, Lamport clocks, and mTLS | Java · RMI · mTLS |
 | [🛡️ Palo Alto GNS3 Lab](https://github.com/Yassin-Elsaadany/paloalto-gns3-security-lab) | Network security lab with firewall zones, NAT, and security policies | GNS3 · Palo Alto · Networking |
 
 ---
