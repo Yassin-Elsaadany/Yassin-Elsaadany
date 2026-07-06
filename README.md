@@ -1,8 +1,9 @@
---- 
+---
+
 # 👋 Hi, I'm Yassin Elsaadany
 
-🎓 Computer Science & Cybersecurity Student
-🛡️ Web Security | Malware Analysis | Networking | Full-Stack Development
+🎓 Computer Science & Cybersecurity Student  
+🛡️ Web Security | Malware Analysis | Networking | Full-Stack Development  
 🚀 Building secure real-world applications and cybersecurity projects
 
 ---
@@ -56,7 +57,9 @@ PlayPadel is a secure e-commerce web application for padel products.
 ### 🛡 Cybersecurity
 
 **Fortinet NSE 4 — FortiOS 7.6 Administrator**
+
 [![Fortinet NSE 4](https://img.shields.io/badge/Fortinet-NSE4%20FortiOS%207.6-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.credly.com/badges/89a2ba8d-aaf8-4067-a050-9b81b7787911/public_url)
+
 - Enterprise firewall administration and configuration
 - Security policies, NAT, VPN, and threat prevention
 - Issued June 2026 via Credly
@@ -64,7 +67,9 @@ PlayPadel is a secure e-commerce web application for padel products.
 ---
 
 **Palo Alto Networks Cybersecurity Academy — Cybersecurity Foundation**
+
 [![Palo Alto](https://img.shields.io/badge/Palo%20Alto-Cybersecurity%20Foundation-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)](https://paloaltonetworksacademy.net/mod/customcert/verify_certificate.php)
+
 - Cybersecurity fundamentals and network security concepts
 - Authorization Number: HSQCjq4fxS
 - Issued February 2026 by Palo Alto Networks
@@ -74,6 +79,7 @@ PlayPadel is a secure e-commerce web application for padel products.
 ---
 
 **TryHackMe — Jr Penetration Tester**
+
 - Completed full penetration testing learning path
 - Covers web attacks, privilege escalation, and real-world scenarios
 - Hands-on labs and attack simulations
@@ -92,15 +98,19 @@ I worked as part of the **System / SysOps team** in ICPC competitions:
 - Ensuring contest performance under pressure
 
 #### 🏅 ACPC (Africa & Arab CPC) 2024
+
 ![ACPC SysOps](assets/certificates/icpc-acpc-sysops.png)
 
 #### 🏅 ACPC (Africa & Arab CPC) 2026
+
 ![ACPC 2026](assets/certificates/icpc-2026-acpc.png)
 
 #### 🏅 ICPC World Finals
+
 ![World Finals](assets/certificates/icpc-world-finals.png)
 
 #### 🏅 ECPC (Egyptian CPC)
+
 ![ECPC System](assets/certificates/icpc-ecpc-system.png)
 
 ---
@@ -109,7 +119,7 @@ I worked as part of the **System / SysOps team** in ICPC competitions:
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🖐️ HearMySign Server](https://github.com/Yassin-Elsaadany/hear-my-sign-server) | Real-time ASL sign language recognition server with WebRTC video calls | Python · TensorFlow · MediaPipe · WebRTC |
+| [🖐️ HearMySign Server](https://github.com/Yassin-Elsaadany/hear-my-sign-server) | Real-time ASL sign-language recognition server with WebRTC video calls | Python · TensorFlow · MediaPipe · WebRTC |
 | [🎾 PlayPadel Demo](https://github.com/Yassin-Elsaadany/PlayPadel-Demo) | Secure e-commerce web app with full security hardening | Flask · SQLite · Stripe · OAuth |
 | [🤖 Cyber Log Classifier](https://github.com/Yassin-Elsaadany/cyber-log-text-classifier-ml) | ML model that classifies cybersecurity log entries | Python · scikit-learn · NLP |
 | [☕ Distributed Ticket Booking](https://github.com/Yassin-Elsaadany/distributed-ticket-booking-rmi-mtls) | Distributed booking system with Ricart-Agrawala, Lamport clocks, and mTLS | Java · RMI · mTLS |
@@ -124,6 +134,7 @@ I worked as part of the **System / SysOps team** in ICPC competitions:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin-Elsaadany&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Yassin-Elsaadany)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yassin-Elsaadany&theme=tokyonight&hide_border=true)](https://github.com/Yassin-Elsaadany)
+
 ---
 
 ## 📫 Contact
@@ -137,4 +148,5 @@ I worked as part of the **System / SysOps team** in ICPC competitions:
 ## ⚡ Motto
 
 > I build systems with security first — not as an afterthought.
+
 ---
