@@ -180,8 +180,8 @@ Worked as part of technical and SysOps teams in programming contest environments
 
 ## 📊 GitHub Activity
 
-![GitHub Profile](https://img.shields.io/badge/GitHub-Yassin--Elsaadany-black?style=for-the-badge&logo=github)
-![Public Projects](https://img.shields.io/badge/Public%20Projects-Cybersecurity%20%26%20Software-blue?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Yassin--Elsaadany-black?style=for-the-badge&logo=github)
+![Projects](https://img.shields.io/badge/Projects-Cybersecurity%20%26%20Software-blue?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Network%20Security%20%7C%20Web%20Security-red?style=for-the-badge)
 
 I use GitHub to publish cybersecurity labs, secure web applications, network security projects, and graduation project work.
