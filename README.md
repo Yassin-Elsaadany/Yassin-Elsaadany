@@ -190,11 +190,11 @@ I use GitHub to publish cybersecurity labs, secure web applications, network sec
 
 ## 📫 Contact
 
-📧 Personal: y.m.elsaadany@gmail.com
+📧 Personal: [y.m.elsaadany@gmail.com](mailto:y.m.elsaadany@gmail.com)
 
-🎓 University: Y.Elsaada00673@student.aast.edu
+🎓 University: [Y.Elsaada00673@student.aast.edu](mailto:Y.Elsaada00673@student.aast.edu)
 
-🔗 LinkedIn: linkedin.com/in/yassin-elsadaany
+🔗 LinkedIn: [linkedin.com/in/yassin-elsadaany](https://linkedin.com/in/yassin-elsadaany)
 
 ---
 
