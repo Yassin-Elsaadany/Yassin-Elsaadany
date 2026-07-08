@@ -178,13 +178,13 @@ Worked as part of technical and SysOps teams in programming contest environments
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yassin-Elsaadany&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/Yassin-Elsaadany)
+![GitHub Profile](https://img.shields.io/badge/GitHub-Yassin--Elsaadany-black?style=for-the-badge&logo=github)
+![Public Projects](https://img.shields.io/badge/Public%20Projects-Cybersecurity%20%26%20Software-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Network%20Security%20%7C%20Web%20Security-red?style=for-the-badge)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin-Elsaadany&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Yassin-Elsaadany)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yassin-Elsaadany&theme=tokyonight&hide_border=true)](https://github.com/Yassin-Elsaadany)
+I use GitHub to publish cybersecurity labs, secure web applications, network security projects, and graduation project work.
 
 ---
 
