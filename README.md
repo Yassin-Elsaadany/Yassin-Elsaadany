@@ -2,29 +2,86 @@
 
 # 👋 Hi, I'm Yassin Elsaadany
 
-🎓 Computer Science & Cybersecurity Student  
-🛡️ Web Security | Malware Analysis | Networking | Full-Stack Development  
-🚀 Building secure real-world applications and cybersecurity projects
+🎓 Cybersecurity Graduate with a Computer Science Degree from AASTMT  
+🛡️ Network Security | Firewall Configuration | Web Application Security  
+🚀 Building secure systems, network labs, and real-world cybersecurity projects
 
 ---
 
-## 🚀 Featured Project
+## 🎓 Graduation Project
 
-### 🎾 PlayPadel Demo
+### 🖐️ HearMySign — ASL Sign Language Alphabet Recognition
 
-![Status](https://img.shields.io/badge/Status-Offline-lightgrey)
-![Security](https://img.shields.io/badge/Security-Enabled-green)
-![Flask](https://img.shields.io/badge/Flask-WebApp-black)
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Status-Graduation%20Project-blue)
+![Accuracy](https://img.shields.io/badge/Accuracy-98.4%25-green)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange)
+![Flask](https://img.shields.io/badge/Flask-Web%20Demo-black)
 
-PlayPadel is a secure e-commerce web application for padel products.
+HearMySign is a real-time American Sign Language alphabet recognition system that detects hand signs from images and classifies them into letters A–Z.
 
-**Highlights**
-- User authentication and Google OAuth
-- Stripe payment integration
-- Admin dashboard
-- Product, order, coupon, and user management
-- SQL Injection, XSS, CSRF, IDOR, and secure cookie protection
+**What I built**
+- 26-class ASL alphabet recognition model
+- Image preprocessing and dataset preparation pipeline
+- MediaPipe hand landmark extraction
+- Train / validation / test evaluation pipeline
+- Flask web demo for live testing
+- GPU training environment using CUDA in WSL
+
+**Techniques used**
+- Transfer learning using EfficientNetB0 and MobileNetV3
+- Fine-tuning pretrained model layers
+- Hand landmark normalization
+- Label smoothing
+- Dropout regularization
+- Data augmentation
+- Classification reports and per-class evaluation
+
+**Result**
+- Achieved **98.4% accuracy** on the ASL alphabet recognition model
+
+**Tech Stack**
+- Python 3.12
+- TensorFlow
+- Keras
+- MediaPipe
+- NumPy
+- scikit-learn
+- Pillow
+- Matplotlib
+- Flask
+- CUDA
+- WSL
+
+🔗 GitHub: [HearMySign Server](https://github.com/Yassin-Elsaadany/hear-my-sign-server)
+
+---
+
+## 📌 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🖐️ HearMySign ASL Recognition](https://github.com/Yassin-Elsaadany/hear-my-sign-server) | Graduation project for ASL alphabet recognition with model training, evaluation, and Flask live demo. | Python · TensorFlow · Keras · MediaPipe · Flask |
+| [🎾 PlayPadel Demo](https://github.com/Yassin-Elsaadany/PlayPadel-Demo) | Secure Flask e-commerce demo with authentication, payments, admin dashboard, and web attack protections. | Flask · SQLite · Stripe · OAuth |
+| [🤖 Cyber Log Classifier](https://github.com/Yassin-Elsaadany/cyber-log-text-classifier-ml) | Python project for classifying cybersecurity logs and common attack patterns. | Python · scikit-learn · NLP |
+| [🛡️ Palo Alto GNS3 Security Lab](https://github.com/Yassin-Elsaadany/paloalto-gns3-security-lab) | Virtual network security lab with firewall zones, NAT, security policies, and traffic testing. | GNS3 · Palo Alto · Networking |
+| [☕ Distributed Ticket Booking](https://github.com/Yassin-Elsaadany/distributed-ticket-booking-rmi-mtls) | Secure distributed ticket booking system using Java RMI, Mutual TLS, Lamport clocks, and Ricart-Agrawala. | Java · RMI · mTLS |
+
+---
+
+## 🛡 Cybersecurity Focus
+
+- Web application security
+- SQL Injection testing
+- Cross-Site Scripting testing
+- Brute-force testing
+- Authentication and access control testing
+- Network security
+- Firewall policies
+- NAT and VPN basics
+- VLANs and Private VLANs
+- Log analysis and troubleshooting
+- Secure system design
 
 ---
 
@@ -33,28 +90,30 @@ PlayPadel is a secure e-commerce web application for padel products.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🛡 Cybersecurity Focus
+## 🌐 Network & Security Tools
 
-- Malware analysis (static & dynamic)
-- Web application security
-- Secure authentication systems
-- Cryptography basics (AES, DES, RSA, hashing)
-- Network security & firewall configuration
-- Secure system design
+![Palo Alto](https://img.shields.io/badge/Palo%20Alto-Firewall-blue?style=for-the-badge)
+![Fortinet](https://img.shields.io/badge/Fortinet-FortiGate-red?style=for-the-badge&logo=fortinet&logoColor=white)
+![Sophos](https://img.shields.io/badge/Sophos-Firewall-darkblue?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-Switching-blue?style=for-the-badge&logo=cisco&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-Logs-black?style=for-the-badge&logo=splunk&logoColor=white)
+![Cacti](https://img.shields.io/badge/Cacti-Monitoring-green?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-lightgrey?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Testing-orange?style=for-the-badge)
 
 ---
 
 ## 🏆 Certificates & Experience
 
-### 🛡 Cybersecurity
+### 🛡 Cybersecurity Certifications
 
 **Fortinet NSE 4 — FortiOS 7.6 Administrator**
 
@@ -62,8 +121,8 @@ PlayPadel is a secure e-commerce web application for padel products.
 
 ![Fortinet NSE 4 Certificate](assets/certificates/fortinet-fortios-7-6-administrator.png)
 
-- Enterprise firewall administration and configuration
-- Security policies, NAT, VPN, and threat prevention
+- FortiGate administration and configuration
+- Security policies, NAT, VPN, routing, logging, and network security
 - Issued June 2026 via Credly
 
 ---
@@ -72,60 +131,50 @@ PlayPadel is a secure e-commerce web application for padel products.
 
 [![Palo Alto](https://img.shields.io/badge/Palo%20Alto-Cybersecurity%20Foundation-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)](https://paloaltonetworksacademy.net/mod/customcert/verify_certificate.php)
 
+![Palo Alto Certificate](assets/certificates/paloalto-cybersecurity-foundation.png)
+
 - Cybersecurity fundamentals and network security concepts
 - Authorization Number: HSQCjq4fxS
 - Issued February 2026 by Palo Alto Networks
-
-![Palo Alto Certificate](assets/certificates/paloalto-cybersecurity-foundation.png)
 
 ---
 
 **TryHackMe — Jr Penetration Tester**
 
-- Completed full penetration testing learning path
-- Covers web attacks, privilege escalation, and real-world scenarios
-- Hands-on labs and attack simulations
-
 ![TryHackMe Certificate](assets/certificates/tryhackme-jr-pentester.png)
+
+- Completed penetration testing learning path
+- Covered web attacks, privilege escalation, and practical security labs
+- Hands-on labs and attack simulations
 
 ---
 
-### 💻 ICPC System Engineering Experience
+### 💻 Contest System & Network Experience
 
-I worked as part of the **System / SysOps team** in ICPC competitions:
+Worked as part of technical and SysOps teams in programming contest environments.
 
-- Infrastructure setup and stability
-- Network configuration and troubleshooting
-- Real-time system monitoring
-- Ensuring contest performance under pressure
+- Network setup and troubleshooting
+- Cisco switch, VLAN, and Private VLAN configuration
+- Firewall and access control support
+- Contest PC and workstation preparation
+- Monitoring using Splunk, Cacti, and log monitoring tools
+- Supporting live contest infrastructure under time pressure
 
-#### 🏅 ACPC (Africa & Arab CPC) 2024
+#### 🏅 ACPC 2024
 
 ![ACPC SysOps](assets/certificates/icpc-acpc-sysops.png)
-
-#### 🏅 ACPC (Africa & Arab CPC) 2026
-
-![ACPC 2026](assets/certificates/icpc-2026-acpc.png)
 
 #### 🏅 ICPC World Finals
 
 ![World Finals](assets/certificates/icpc-world-finals.png)
 
-#### 🏅 ECPC (Egyptian CPC)
+#### 🏅 ECPC
 
 ![ECPC System](assets/certificates/icpc-ecpc-system.png)
 
----
+#### 🏅 QCPC Qatar 2025
 
-## 📌 Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🖐️ HearMySign ASL Training Pipeline](https://github.com/Yassin-Elsaadany/hear-my-sign-server) | TensorFlow image-classification pipeline for ASL alphabet recognition with training, evaluation, inference, and local testing. | Python · TensorFlow · EfficientNetB0 · Computer Vision |
-| [🎾 PlayPadel Demo](https://github.com/Yassin-Elsaadany/PlayPadel-Demo) | Secure e-commerce web app with full security hardening | Flask · SQLite · Stripe · OAuth |
-| [🤖 Cyber Log Classifier](https://github.com/Yassin-Elsaadany/cyber-log-text-classifier-ml) | ML model that classifies cybersecurity log entries | Python · scikit-learn · NLP |
-| [☕ Distributed Ticket Booking](https://github.com/Yassin-Elsaadany/distributed-ticket-booking-rmi-mtls) | Distributed booking system with Ricart-Agrawala, Lamport clocks, and mTLS | Java · RMI · mTLS |
-| [🛡️ Palo Alto GNS3 Lab](https://github.com/Yassin-Elsaadany/paloalto-gns3-security-lab) | Network security lab with firewall zones, NAT, and security policies | GNS3 · Palo Alto · Networking |
+- Technical and SysOps support experience during QCPC Qatar 2025.
 
 ---
 
@@ -144,6 +193,8 @@ I worked as part of the **System / SysOps team** in ICPC competitions:
 📧 Personal: y.m.elsaadany@gmail.com
 
 🎓 University: Y.Elsaada00673@student.aast.edu
+
+🔗 LinkedIn: linkedin.com/in/yassin-elsadaany
 
 ---
 
